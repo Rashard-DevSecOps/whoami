@@ -4,16 +4,16 @@
 
 ## Working On
 
-- Designing reusable SOAR case-bucketing patterns for allowlist 
-  and approved-travel scenarios
-- Studying detection migration patterns between SIEM platforms 
-  and third-party data connectors
+- Reusable patterns for SOAR case management
+- Detection migration between SIEM platforms
+- Gaining Insitutional knowledge of how to document AI Risk awareness
 
 ## Learning
 
 - CrowdStrike query language
+- Rapid Risk Assessment techniques
 - MITRE ATLAS for AI threat modeling
-- NIST AI Risk Management Framework
+- OWASP TOP TEN FOR LLMS
 - ISO42001 (AIMS)
 
 ## Reading
