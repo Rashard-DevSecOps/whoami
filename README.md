@@ -1,6 +1,3 @@
-
-Application Security researcher working as an analyst, documenting like an architect. Focus: AI risk, SOAR, AppSec.
-
 # whoami
 
 IT Security Analyst working at the intersection of AI risk, 
