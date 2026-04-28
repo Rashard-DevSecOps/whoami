@@ -2,7 +2,7 @@
 
 *Last updated: April 2026*
 
-## Active
+## Working On
 
 - Designing reusable SOAR case-bucketing patterns for allowlist 
   and approved-travel scenarios
@@ -16,6 +16,6 @@
 - NIST AI Risk Management Framework
 - ISO42001 (AIMS)
 
-## Trajectory
+## Reading
 
-Building AI risk informed, responsible automation. Architecture mindset, AppSec focus.
+"Thinking in Systems" by Donella Meadows
