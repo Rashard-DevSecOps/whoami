@@ -1,17 +1,17 @@
 # whoami
-*by Rashard · IT Security Analyst*
+*by Rashard · IT Security Analyst & AI Risk Practitioner*
 
-IT Security Analyst working at the intersection of AI risk, 
-third-party risk, and security automation. Documenting the 
-transition toward AI Risk Architecture with an Application 
-Security focus.
+IT Security Analyst bridging the gap between AI experimentation and 
+enterprise security. My work focuses on AI Risk Architecture, 
+enforcing secure-by-design principles in LLMOps deployments, and 
+building out AI Data Loss Prevention (AI-DLP) guardrails.
 
 ## Focus Areas
 
-- Security automation and SOAR workflow design
-- AI and third-party risk evaluation
-- Threat-intel-justified detection engineering
-- Clean, audit-readable documentation
+- **AI Governance & LLMOps:** Managing the lifecycle, RBAC, and secure deployment of enterprise AI agents.
+- **AI Data Loss Prevention (AI-DLP):** Configuring classification modules to track and block PII (SSN, DL, PDFs) egress in generative AI prompt flows.
+- **Security Automation:** Designing human-in-the-loop SOAR workflows.
+- **DevSecOps (In Progress):** Transitioning toward infrastructure-as-code via Terraform and pursuing the Anthropic Claude Architect Certification.
 
 ## Repo Layout
 
