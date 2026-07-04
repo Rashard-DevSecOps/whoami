@@ -50,5 +50,4 @@ A repeatable 5-step pipeline for Rapid Risk Assessment workflows built on Google
 
 ## Stack
 
-CrowdStrike NG-SIEM · SOAR · Google Workspace · Python · YAML · 
-Markdown · Git
+CrowdStrike NG-SIEM · Charlotte AI (AgentWorks) · Model Context Protocol (MCP) · SOAR · Google Workspace · Python · React · Tailwind CSS · Git
